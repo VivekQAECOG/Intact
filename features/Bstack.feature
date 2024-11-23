@@ -10,4 +10,5 @@ Feature: BrowserStack Demo
         Examples:
         | itemName             |firsName |lastName |addressLine |province |postalCode |
         | Galaxy Note 20 Ultra |Vivek    |Sinha    |Lalpur      |Ranchi   |834001     |
-        | iPhone 12 Pro Max    |Rishiv    |Sinha    |Lalpur      |Ranchi   |834001     |
+        | iPhone 12 Pro Max    |Priyanka |Yadav    |Lalpur      |Ranchi   |834001     |
+        | iPhone 12 Pro Max    |Rishiv   |Sinha    |Lalpur      |Ranchi   |834001     |
