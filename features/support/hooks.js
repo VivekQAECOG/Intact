@@ -13,9 +13,15 @@ After(function () {
     console.log("After Cucumber Hooks")
 });
 
+BeforeStep(function(){
+    console.log("#########################");
+});
+
 
 AfterStep(async function ({result}) {
 if(result.status===Status.FAILED){
 await this.page.screenshot({path:'screenshot1.png'})
 }
 });
+
+
