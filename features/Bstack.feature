@@ -12,3 +12,4 @@ Feature: BrowserStack Demo
         | Galaxy Note 20 Ultra |Vivek    |Sinha    |Lalpur      |Ranchi   |834001     |
         | iPhone 12 Pro Max    |Priyanka |Yadav    |Lalpur      |Ranchi   |834001     |
         | iPhone 12 Pro Max    |Rishiv   |Sinha    |Lalpur      |Ranchi   |834001     |
+        | iPhone 12 Pro Max    |Vivek    |Sinha    |Lalpur      |Ranchi   |834001     |
